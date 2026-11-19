@@ -1,3 +1,4 @@
+
 # Student Performance Analysis Using Python
 
 ## Project Overview
@@ -56,3 +57,6 @@ The project generates:
 
 ## Conclusion
 This project demonstrates how Python can be used for data analysis and visualization to understand student academic performance efficiently.
+
+# student-performance-analysis
+A Python project to analyze student academic performance, calculate grades and visualize results.
